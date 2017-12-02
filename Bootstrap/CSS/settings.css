@@ -1,0 +1,49 @@
+.navbar-header{
+  padding-left: 2%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav{
+  padding-right: 2%;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+
+.container{
+  width:90%;
+  margin:auto;
+  overflow:hidden;
+}
+
+
+
+.btn {
+  margin-top: 15px;
+}
+
+h1{
+  padding-top: 7%;
+  text-align: center;
+}
+
+form{
+  width: 800px;
+  padding-left: 37%;
+}
+
+.form-control{
+  margin-top: 5%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: #000;
+    color:#9d9d9d;
+
+}
